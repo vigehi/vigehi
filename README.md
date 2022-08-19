@@ -16,7 +16,7 @@ I Spend most of time learning new technologies and how they work.
 - 🤔 All kinds of projects and collaboration from software to hardware are welcome.
 - 📫 Get in touch instantly : vigehi2017@gmail.com.
 - ⚡ Fun fact: I love documentaries and sports
-<p>
+<p class="contrib">
 
 #### Contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
@@ -52,7 +52,11 @@ I Spend most of time learning new technologies and how they work.
 <br />
 <br />
 
-
+<style>
+    .contrib{
+        display:flex;
+    }
+</style>
  
 
 

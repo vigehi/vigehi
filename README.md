@@ -19,7 +19,7 @@ I Spend most of time learning new technologies and how they work.
 <p>
 
 #### Contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MilesDiana"/>
 
 #### Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigehi&layout=compact"/>

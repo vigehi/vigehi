@@ -6,8 +6,8 @@ I Spend most of time learning new technologies and how they work.
 
 :mailbox: Let's Connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-richardoppiyo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edith-oga-5708801b8/) 
-[![Mail Badge](https://img.shields.io/badge/-richardoppiyo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vigehi2017@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Edithoga-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edith-oga-5708801b8/) 
+[![Mail Badge](https://img.shields.io/badge/-edithoga-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vigehi2017@gmail.com)
 
 
 - 🔭 I’m currently a full time student Microverse.

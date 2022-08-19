@@ -16,15 +16,19 @@ I Spend most of time learning new technologies and how they work.
 - 🤔 All kinds of projects and collaboration from software to hardware are welcome.
 - 📫 Get in touch instantly : vigehi2017@gmail.com.
 - ⚡ Fun fact: I love documentaries and sports
+<p>
 
 #### Contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
 
+#### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigehi&layout=compact"/>
+</p>
+
 #### Github Stats
 [![Edith oga's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigehi&theme=gruvbox)](https://github.com/vigehi/github-readme-stats)
 
-#### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigehi&layout=compact"/>
+
 
 
 

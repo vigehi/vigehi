@@ -1,4 +1,6 @@
-### Hi there 👋
+#### Profile Visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vigehi.vigehi&left_color=Blue&right_color=pink)
 
 I'm Edith Oga, I am a full stack software Developer.
 I am currently a student microverse working to improve my skills in Full-Stack development.  
@@ -14,6 +16,18 @@ I Spend most of time learning new technologies and how they work.
 - 🤔 All kinds of projects and collaboration from software to hardware are welcome.
 - 📫 Get in touch instantly : vigehi2017@gmail.com.
 - ⚡ Fun fact: I love documentaries and sports
+
+#### Contributions and streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
+
+#### Github Stats
+[![Edith oga's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigehi&theme=gruvbox)](https://github.com/vigehi/github-readme-stats)
+
+#### Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigehi&layout=compact"/>
+
+
+
 
 #### Top Technologies
 
@@ -35,17 +49,6 @@ I Spend most of time learning new technologies and how they work.
 <br />
 
 
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=vigehi.vigehi&left_color=Blue&right_color=pink)
-
  
-#### Github Stats
-[![Edith oga's GitHub stats](https://github-readme-stats.vercel.app/api?username=vigehi&theme=gruvbox)](https://github.com/vigehi/github-readme-stats)
 
-#### Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=vigehi&layout=compact"/>
-
-#### Contributions and streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
 

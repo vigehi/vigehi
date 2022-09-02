@@ -37,9 +37,9 @@ I Spend most of time learning new technologies and how they work.
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Postgresql Badge](https://img.shields.io/badge/-Postgresql-305d8d?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=305d8d)](#) 
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-305d8d?style=for-the-badge&labelColor=black&logo=ruby&logoColor=305d8d)](#) 
-[![React Badge](https://img.shields.io/badge/-React-305d8d?style=for-the-badge&labelColor=black&logo=react&logoColor=305d8d)](#) 
-[![Redux Badge](https://img.shields.io/badge/-Redux-305d8d?style=for-the-badge&labelColor=black&logo=redux&logoColor=305d8d)](#) 
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-red?style=for-the-badge&labelColor=black&logo=ruby&logoColor=red)](#) 
+[![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=black&logo=react&logoColor=blue)](#) 
+[![Redux Badge](https://img.shields.io/badge/-Redux-green?style=for-the-badge&labelColor=black&logo=redux&logoColor=green)](#) 
 
 
 ### Complete Tech Stack

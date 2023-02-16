@@ -2,8 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vigehi.vigehi&left_color=Blue&right_color=pink)
 
-I'm Edith Oga, I am a full-stack software Developer.
-I am currently a student microverse working to improve my skills in Full-Stack development.  
+I'm Edith Oga, a Full-Stack Software Developer. I am currently a student of Microverse working to improve my skills in full-stack development.  
 I Spend most of time learning new technologies and how they work.
 
 :mailbox: Let's Connect!

@@ -3,6 +3,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vigehi.vigehi&left_color=Blue&right_color=pink)
 
 I am a Full-Stack Software Developer seeking a quality environment where my knowledge and experience can be shared and enriched. Ruby on Rails | Javascript | React | PostgreSQL. Open to job opportunities!
+
 I Spend most of time learning new technologies and how they work.
 
 :mailbox: Let's Connect!

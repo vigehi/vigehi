@@ -1,7 +1,7 @@
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vigehi.vigehi&left_color=Blue&right_color=pink)
-![visitors[(https://profile-counter.glitch.me/vigehi/count.svg)
+![visitors](https://profile-counter.glitch.me/vigehi/count.svg)
 
 I am a Full-Stack Software Developer seeking a quality environment where my knowledge and experience can be shared and enriched. Ruby on Rails | Javascript | React | PostgreSQL. Open to job opportunities!
 

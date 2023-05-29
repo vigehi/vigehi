@@ -14,7 +14,7 @@ I Spend most of time learning new technologies and how they work.
 - 🔭 I’m currently a full time student Microverse.
 - 🤔 All kinds of projects and collaboration from software to hardware are welcome.
 - 📫 Get in touch instantly : vigehi2017@gmail.com.
-- ⚡ Fun fact: I love documentaries and sports
+- ⚡ Fun fact: I love documentaries and sports.
 <p >
 
 #### Contributions and streaks

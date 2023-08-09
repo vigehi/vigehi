@@ -19,7 +19,6 @@ I Spend most of time learning new technologies and how they work.
 
 #### Contributions and streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigehi"/>
-[![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vigehi&count_private=true&theme=slateorange)]()
 
 
 
